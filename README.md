@@ -1,6 +1,6 @@
 ### Hi I am Dev..
 
-[![Twitter Badge](https://img.shields.io/badge/-Dev_Dhar-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Dev_Dhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-dhar-981ba79//)](https://www.linkedin.com/in/dev-dhar-981ba79/)  [![Gmail Badge](https://img.shields.io/badge/-dev.dhar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.dhar04@gmail.com)](mailto:dev.dhar04@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-Dev_Dhar-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yashraj04)](https://twitter.com/yashraj04)  [![Linkedin Badge](https://img.shields.io/badge/-Dev_Dhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-dhar-981ba79//)](https://www.linkedin.com/in/dev-dhar-981ba79/)  [![Gmail Badge](https://img.shields.io/badge/-dev.dhar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.soni04@gmail.com)](mailto:dev.soni04@gmail.com) 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
