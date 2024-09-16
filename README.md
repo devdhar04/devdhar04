@@ -1,6 +1,6 @@
 ### Hi I am Dev..
 
-My name is Dev and I'm a software developer . I'm from India, living in Tokyo and currently working at PayPay. You can find me on Twitter, or on LinkedIn.
+My name is Dev and I'm a software developer . I'm from India, living in Sweden and Working as Engineering Manager . You can find me on Twitter, or on LinkedIn.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yashraj04)](https://twitter.com/yashraj04)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-dhar-981ba79//)](https://www.linkedin.com/in/dev-dhar-981ba79/)  [![Gmail Badge](https://img.shields.io/badge/-gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.soni04@gmail.com)](mailto:dev.soni04@gmail.com) 
 
